@@ -7,7 +7,7 @@ const int TAM_MAX = 100;
 
 int main(){
 
-    char s[TAM_MAX], st[TAM_MAX];
+    char s[TAM_MAX];
     printf("Digite uma frase: ");
     fgets(s, TAM_MAX, stdin);
     int j = 0;
